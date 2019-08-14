@@ -1,5 +1,5 @@
 # windows7_password_changer
-This is a project that allows you to change a windows 7 pc password, without knowing the current password. I created this application  shortly after Windows 7 was realeased.
+This is a GUI application that allows you to change a windows 7 pc password, without knowing the current password. I created this application  shortly after Windows 7 was realeased.
 
 This application will only work for Windows 7.
 This application should not be used for any malicious actions.
