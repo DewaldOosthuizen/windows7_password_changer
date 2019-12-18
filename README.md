@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVJC5VUM5ZEW8&source=url)
+
 # windows7_password_changer
 This is a GUI application that allows you to change a windows 7 pc password, without knowing the current password. I created this application  shortly after Windows 7 was realeased.
 
